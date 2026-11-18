@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ernest Ebimaro 
 
-<!--
-**EbimaroErnesto/EbimaroErnesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Graduate | Software Developer | Data Science & AI Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate passionate about building practical technology solutions through software development, data science, artificial intelligence and embedded systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have hands-on experience developing Python applications, machine learning solutions, backend systems, data analytics projects and IoT-based applications.
+
+ Technical Interests
+- Software Engineering & Backend Development
+- Data Science & Machine Learning
+- Artificial Intelligence
+- Internet of Things (IoT)
+- Database Management
+- Intelligent Automation
+
+ Technologies
+Python | JavaScript | SQL | Pandas | NumPy | Scikit-learn | FastAPI | Streamlit | Node.js | Express.js | MongoDB | SQLite | Git | GitHub | ESP32
+
+ Featured Work
+- Global Superstore Exploratory Data Analysis
+- Nigerian Housing Price Analysis
+- Telegram Spam Detection System
+- Social Media Post Scheduler
+- Electricity Consumption Anomaly Detection
+
+📍 Nigeria
+
+🔗 GitHub: https://github.com/EbimaroErnesto
